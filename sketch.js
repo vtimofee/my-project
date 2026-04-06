@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background("blue");
+  background("red");
 }
 
 function mousePressed() {
